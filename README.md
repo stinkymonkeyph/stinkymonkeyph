@@ -23,5 +23,5 @@
 11. To err is human. You might not intend it, but mistakes do happen and contribute to build experience. Tolerate honest mistakes, and don't hesitate to apologize if you make one yourself.
 
 <p align="center">
-  <img width="460" height="300" src="https://cdn.pixabay.com/photo/2014/12/03/12/21/monk-555391_960_720.jpg">
+  <img width="460" height="300" src="https://cdn.pixabay.com/photo/2018/01/04/19/14/figure-3061425_960_720.jpg">
 </p> <br />
