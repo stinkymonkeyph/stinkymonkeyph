@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=stinkymonkeyph&color=green)
+
 ### [The Code Manifesto](https://framework.zend.com/participate/code-manifesto) <br />
 
 1. We want to work in an ecosystem that empowers developers to reach their potential--one that encourages professional growth and effective collaboration. A space that is safe for all.
