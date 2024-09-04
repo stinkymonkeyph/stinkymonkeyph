@@ -1,5 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=stinkymonkeyph&color=green)
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=stinkymonkeyph&show_icons=true&icon_color=eee&theme=vue-dark&count_private=trues&show=prs_merged,prs_merged_percentage">
+
 ### [The Code Manifesto](https://framework.zend.com/participate/code-manifesto) <br />
 
 1. We want to work in an ecosystem that empowers developers to reach their potential--one that encourages professional growth and effective collaboration. A space that is safe for all.
