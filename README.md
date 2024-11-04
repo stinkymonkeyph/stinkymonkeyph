@@ -1,6 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=stinkymonkeyph&color=green)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=stinkymonkeyph&show_icons=true&icon_color=eee&theme=vue-dark&count_private=trues&show=prs_merged,prs_merged_percentage">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=stinkymonkeyph&show_icons=true&icon_color=eee&theme=vue-dark&count_private=trues&show=prs_merged,prs_merged_percentage">
+
+<p align="center">
+  <a href="http://www.github.com/stinkymonkeyph"><img src="https://github-readme-streak-stats.herokuapp.com/?user=stinkymonkeyph&stroke=ffffff&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</p>
 
 ### [The Code Manifesto](https://framework.zend.com/participate/code-manifesto) <br />
 
